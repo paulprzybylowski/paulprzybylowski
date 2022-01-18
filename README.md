@@ -1,7 +1,7 @@
 ### Hi there 👋  my name is Paul Przybylowski
 
 
-- 🔭 I’m currently working on portfolio projects to work as a Software Developer
+- 💻 Check out my projects in my portfolio!
 
 - 🌱 I’m currently learning Full Stack Software Development 
 

@@ -6,12 +6,9 @@
 Here are some ideas to get you started:
 -->
 
+- 🔭 I’m currently working on portfolio projects to work as a Software Developer
 
-- 🔭 I’m currently working on portfolio projects
-- 
 - 🌱 I’m currently learning Full Stack Software Development 
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
 
 - 📫 How to reach me:  paul.daniel.przybylowski@gmail.com
 

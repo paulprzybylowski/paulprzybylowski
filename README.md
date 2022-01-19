@@ -1,4 +1,4 @@
-### Hi there 👋  my name is Paul Przybylowski
+### Hi there 🙏  my name is Paul Przybylowski
 
 
 - 💻 Check out my projects in my [portfolio](https://paulprzybylowski.github.io/)!

@@ -3,7 +3,7 @@
 
 - 💻 Check out my projects in my portfolio!
 
-- 🌱 I’m currently learning Full Stack Software Development 
+- 🌱 I’m a Full-Stack Software Developer
 
 - 📫 How to reach me:  paul.daniel.przybylowski@gmail.com
 

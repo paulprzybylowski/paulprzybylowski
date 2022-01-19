@@ -1,5 +1,6 @@
 ### Hello world, my name is Paul Przybylowski 
 
+I'm a self-taught Full-Stack Software Developer.
 
 - 💻 Check out my projects in my [portfolio](https://paulprzybylowski.github.io/)!
 

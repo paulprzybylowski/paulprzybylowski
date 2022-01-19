@@ -7,8 +7,7 @@
 
 - 📫 How to reach me:  paul.daniel.przybylowski@gmail.com
 
-- ⚡ Fun fact: I enjoy reading and writing, coffee and wine, jiu jitsu, music, cooking and permaculture
-
+- ⚡ Fun fact: I enjoy reading and writing, coffee and wine, jiu jitsu, music, cycling, cooking. I'm an aspiring permaculturalist. 
 
 Thank you for visiting my Github! 🙏
 

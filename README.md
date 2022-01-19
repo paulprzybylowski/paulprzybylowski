@@ -1,7 +1,7 @@
 ### Hi there 👋  my name is Paul Przybylowski
 
 
-- 💻 Check out my projects in my [portfolio](paulprzybylowski.github.io)!
+- 💻 Check out my projects in my [portfolio](https://paulprzybylowski.github.io/)!
 
 - 🌱 I’m a Full-Stack Software Developer
 

@@ -1,4 +1,4 @@
-# Hello world, I'm Paul 
+# Hello, I'm Paul 🙏
 
 ## Self-Taught Full-Stack Software Developer
 
@@ -9,4 +9,3 @@
 - ⚡ Fun fact: I enjoy reading and writing, coffee and wine, jiu jitsu, music, cycling, and cooking. I'm an aspiring permaculturalist. 
 
 Thank you for visiting my Github 🙏
-

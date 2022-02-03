@@ -50,7 +50,7 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background: linear-gradient(-45deg, #002541, #0079d4, #c9e8fe);
 					background-size: 600% 400%;
 					animation: gradientBackground 14s ease infinite;
 					border-radius: 10px;

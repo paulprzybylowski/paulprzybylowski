@@ -1,4 +1,4 @@
-### Hello world, I'm Paul 
+# Hello world, I'm Paul 
 
 ## I am a self-taught Full-Stack Software Developer
 

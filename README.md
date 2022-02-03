@@ -9,3 +9,5 @@
 - ⚡ Fun fact: I enjoy reading and writing, coffee and wine, jiu jitsu, music, cycling, and cooking. I'm an aspiring permaculturalist. 
 
 Thank you for visiting my Github 🙏
+
+<img src="animation.svg" alt="" />

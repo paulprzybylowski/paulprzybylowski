@@ -76,7 +76,7 @@
 			</style>
 			<div class="container" class="ascii-art">
 				<h1>
-					
+				<pre>	
               |    |    |  <br/>               
              )_)  )_)  )_)     <br/>         
             )___))___))___)\      <br/>      
@@ -87,7 +87,7 @@
     ^^^^      ^^^^     ^^^    ^^<br/>
          ^^^^      ^^^<br/>
 					
-					
+					</pre>	
 					
 					
 				</h1>

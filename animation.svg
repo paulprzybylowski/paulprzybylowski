@@ -49,7 +49,7 @@
 					justify-content: center;
 					margin: 0;
 					width: 100%;
-					height: 400px;
+					height: 300px;
 					background: linear-gradient(-45deg, #002541, #0079d4, #c9e8fe);
 					background-size: 600% 400%;
 					animation: gradientBackground 14s ease infinite;
@@ -58,7 +58,7 @@
 					text-align: center;
 				}
 				h1 {
-					font-size: 30px;
+					font-size: 20px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 <!-- 					text-shadow:

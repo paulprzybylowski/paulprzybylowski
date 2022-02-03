@@ -1,6 +1,6 @@
 # Hello world, I'm Paul 
 
-## I am a self-taught Full-Stack Software Developer
+## Self-Taught Full-Stack Software Developer
 
 - 💻 Check out my projects in my [Portfolio](https://paulprzybylowski.github.io/)
 

@@ -6,7 +6,7 @@
 
 - 📫 Contact:  paul.daniel.przybylowski@gmail.com
 
-- ⚡ Fun facts: I enjoy reading and writing, jiu jitsu, coffee and wine, fishing, cycling, snowboarding, and cooking. I'm an aspiring permaculturalist. 
+- ⚡ Hobbies: reading and writing, jiu jitsu, coffee and wine, fishing, cycling, snowboarding, cooking
 
 Thank you for visiting my Github 🙏
 

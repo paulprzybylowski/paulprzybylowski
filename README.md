@@ -1,6 +1,6 @@
 # Hello, I'm Paul 👋
 
-## Self-Taught Full-Stack Web Developer
+## Full-Stack Web Developer
 
 - 👨‍💻 Check out my [Portfolio](https://paulprzybylowski.github.io/)
 

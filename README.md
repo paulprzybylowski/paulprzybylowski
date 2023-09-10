@@ -1,12 +1,12 @@
 # Hello, I'm Paul 👋
 
-## Full-Stack Web Developer
+## Full-Stack Web Developer & Project Manager
 
 - 👨‍💻 Check out my [Portfolio](https://paulprzybylowski.github.io/)
 
 - 📫 Contact:  paul.daniel.przybylowski@gmail.com
 
-- ⚡ Hobbies: reading and writing, jiu jitsu, coffee and wine, fishing, cycling, snowboarding, cooking
+- ⚡ Hobbies: family adventures, reading and writing, jiu jitsu, weight lifting, cycling, travel 
 
 Thank you for visiting my Github 🙏
 
